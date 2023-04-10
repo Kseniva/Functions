@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+}
+.photo {
+    width: 31.25rem;
+    height: 18.7rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+    background-color: black;
+    color: azure;
+    font-size: 15px;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+}
+.switch {
+    display: flex;
+    justify-content: space-around;
+}
